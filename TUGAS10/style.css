@@ -1,0 +1,53 @@
+.jumbotron {
+ /*background-image: url('http://www.allwhitebackground.com/images/7/Bali-Background-Image.jpg') ; */
+
+ background: rgba(42, 38, 61, 0.82);
+ text-align: center;
+ height: 770px;
+ font-family: Pacifico;
+
+}
+
+body{
+  overflow: hidden;
+  background: url('https://cdn.shopify.com/s/files/1/1859/8979/articles/CPC-031-alternatives-to-white-background-830x488_1024x1024.png?v=1522392688') ;
+
+  background-size: cover;
+}
+
+.btn-light{
+  background: #FCB371;
+  color:white;
+  border-color: #FCB371;
+  border-radius: 6px;
+  
+}
+
+.btn-outline-light{
+  color:#FCB371;
+  border-color: #FCB371;
+  border-radius: 6px;
+}
+
+.my-4{
+  background-color: white;
+  width: 300px;
+}
+
+.fa-arrow-left{
+  color:white;
+}
+
+/* .jumbotron .display-4{
+  margin-top: 120px;
+  } */
+
+  .container-fluid{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .display-4{
+    margin-top: 50px;
+  }
+
